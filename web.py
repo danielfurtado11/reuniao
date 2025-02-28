@@ -14,7 +14,7 @@ st.set_page_config(page_title="Meeting Analysis", layout="wide")
 row = st.columns(1)
 
 row[0].image("Images/nexi.jpg", width=250)
-row[0].markdown(f"## 👋 Paranbéns {person}!!")
+row[0].markdown(f"## 👋 Parabéns {person}!!")
 
 st.write("")
 st.write("")
